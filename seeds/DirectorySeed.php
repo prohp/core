@@ -4,7 +4,7 @@ namespace app\common\seeds;
 /**
  * Class DirectorySeed
  *
- * @package app\common\seeds
+ *
  *
  *
  */

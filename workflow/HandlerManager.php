@@ -6,7 +6,7 @@ use yii\base\InvalidValueException;
 
 /**
  * Class HandlerRegistry
- * @package app\common\workflow
+ *
  * @author Dzhamal Tayibov
  */
 class HandlerManager implements HandlerManagerInterface

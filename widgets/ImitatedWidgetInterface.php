@@ -4,7 +4,7 @@ namespace app\common\widgets;
 /**
  * Interface ImitatedWidgetInterface
  *
- * @package app\common\widgets
+ * 
  *
  * 
  */

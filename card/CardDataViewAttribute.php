@@ -6,7 +6,7 @@ use app\common\helpers\Html;
 
 /**
  * Class CardDataViewAttribute
- * @package app\common\card
+ *
  *
  * 
  */

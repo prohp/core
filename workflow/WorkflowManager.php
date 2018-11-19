@@ -11,7 +11,7 @@ use yii\base\InvalidValueException;
 
 /**
  * Class WorkflowService
- * @package app\common\workflow
+ *
  *
  * @author Dzhamal Tayibov
  */

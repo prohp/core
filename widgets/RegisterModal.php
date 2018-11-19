@@ -7,7 +7,7 @@ use app\common\web\View;
 
 /**
  * Class ConfirmModal
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

@@ -10,7 +10,7 @@ use app\common\logic\orm\Seed as SeedModel;
 /**
  * Class Seed
  *
- * @package app\common\seeds
+ *
  *
  *
  *

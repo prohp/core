@@ -12,7 +12,7 @@ use app\common\db\ActiveRecord;
  * @property string $entity_id
  * @property string $entity
  *
- * @package app\common\logic\orm
+ * 
  *
  * 
  */

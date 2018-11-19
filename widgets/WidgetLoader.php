@@ -6,7 +6,7 @@ use yii\helpers\Json;
 
 /**
  * Class WidgetLoader
- * @package common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

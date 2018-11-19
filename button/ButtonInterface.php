@@ -3,7 +3,7 @@ namespace app\common\button;
 
 /**
  * Интерфейс кнопки
- * @package app\common\button
+ *
  *
  * 
  */

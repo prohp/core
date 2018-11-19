@@ -8,7 +8,7 @@ use app\modules\security\models\orm\Acl;
 
 /**
  * Class ActiveDataProvider
- * @package app\common\data
+ *
  *
  * @author Dzhamal Tayibov
  */

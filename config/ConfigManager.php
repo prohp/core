@@ -12,7 +12,7 @@ use yii\base\Module;
  *
  * @property-read array $configuration
  *
- * @package app\common\config
+ *
  *
  * @author Dzhamal Tayibov
  */

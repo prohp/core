@@ -8,7 +8,7 @@ use yii\helpers\Url;
 
 /**
  * Class FormWidget
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

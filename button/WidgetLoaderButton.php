@@ -9,7 +9,7 @@ use yii\base\InvalidConfigException;
 /**
  * Class WidgetLoaderButton
  *
- * @package app\common\button
+ *
  *
  * @author Michael Lazarev
  * @author Dzhamal Tayibov

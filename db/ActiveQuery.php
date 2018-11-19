@@ -3,7 +3,7 @@ namespace app\common\db;
 
 /**
  * Class ActiveQuery
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  */

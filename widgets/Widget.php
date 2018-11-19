@@ -10,7 +10,7 @@ use app\common\wrappers\DynamicModal;
  * @property-read string $module
  * @property mixed $model
  *
- * @package app\common\widgets
+ * 
  *
  * @author Dzhamal Tayibov
  */

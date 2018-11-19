@@ -5,7 +5,7 @@ use app\common\db\ActiveRecord;
 
 /**
  * Class Notification
- * @package app\common\notification\models
+ *
  * @property int $type
  * @property int $status
  * @property string $message

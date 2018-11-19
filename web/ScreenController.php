@@ -7,7 +7,7 @@ use app\common\helpers\ClassHelper;
 
 /**
  * Class PageController
- * @package app\common\web
+ *
  *
  * 
  */

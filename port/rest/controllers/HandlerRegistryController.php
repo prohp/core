@@ -9,7 +9,7 @@ use yii\web\ForbiddenHttpException;
 
 /**
  * Class HandlerRegistryController
- * @package app\port\rest\controllers
+ *
  */
 class HandlerRegistryController extends Controller
 {

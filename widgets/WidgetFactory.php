@@ -11,7 +11,7 @@ use yii\helpers\Inflector;
 
 /**
  * Class WidgetFactory
- * @package app\common\base
+ *
  *
  * @author Dzhamal Tayibov
  */

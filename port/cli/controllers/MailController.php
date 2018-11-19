@@ -11,7 +11,7 @@ use Symfony\Component\Finder\SplFileInfo;
 
 /**
  * Class MailController
- * @package app\port\cli\controllers
+ * 
  *
  * @author Georgy Kibardin
  */

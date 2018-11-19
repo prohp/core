@@ -5,7 +5,7 @@ use app\common\helpers\Html;
 
 /**
  * Class LinkSorter
- * @package app\common\widgets
+ *
  *
  * 
  */

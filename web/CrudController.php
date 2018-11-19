@@ -10,7 +10,7 @@ use yii\filters\VerbFilter;
 /**
  * Class CrudController
  *
- * @package app\common\web
+ *
  *
  * @deprecated
  *

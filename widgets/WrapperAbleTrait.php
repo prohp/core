@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class WrapperTrait
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

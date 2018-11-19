@@ -8,7 +8,7 @@ use yii\base\Model;
 
 /**
  * Class Dto
- * @package app\common\dto
+ *
  *
  * @deprecated используется только в ACL. Требуется лёгкий рефакторинг ACL и тогда можно
  * будет выкинуть этот DTO

@@ -3,7 +3,7 @@ namespace app\common\db\mysql;
 
 /**
  * Class Schema
- * @package app\common\db\mysql
+ *
  *
  * 
  */

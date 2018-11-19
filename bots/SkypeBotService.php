@@ -7,7 +7,7 @@ use GuzzleHttp\Psr7;
 
 /**
  * Class SkypeBotService
- * @package app\common\bots
+ * 
  */
 class SkypeBotService extends ApplicationService implements SkypeBotServiceInterface
 {

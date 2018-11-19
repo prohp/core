@@ -3,7 +3,7 @@ namespace app\common\web;
 
 /**
  * Class AssetBundle
- * @package common\web
+ * 
  *
  * 
  */

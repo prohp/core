@@ -8,7 +8,7 @@ use yii\filters\ContentNegotiator;
 /**
  * Class Controller
  * @todo Trait, который будет менять path VIEW в зависимости от порта
- * @package app\common\web
+ *
  *
  * @author Dzhamal Tayibov
  */

@@ -3,7 +3,7 @@ namespace app\common\di;
 
 /**
  * Class Container
- * @package app\common\di
+ * 
  *
  *
  */

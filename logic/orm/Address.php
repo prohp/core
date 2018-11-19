@@ -5,7 +5,7 @@ use app\common\db\ActiveRecord;
 
 /**
  * Class Address
- * @package app\common\logic\orm
+ * 
  *
  *
  * @author Dzhamal Tayibov

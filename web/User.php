@@ -5,7 +5,7 @@ use app\modules\security\models\orm\User as UserOrm;
 
 /**
  * Class User
- * @package app\common\web
+ * 
  *
  */
 class User extends \yii\web\User

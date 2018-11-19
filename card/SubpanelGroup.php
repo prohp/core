@@ -6,7 +6,7 @@ use app\common\widgets\Tabs;
 
 /**
  * Группа субпанелей
- * @package app\common\card
+ *
  * 
  * 
  * 

@@ -6,7 +6,7 @@ use app\modules\incident\application\FileServiceInterface;
 
 /**
  * Class FileController
- * @package app\port\cli\controllers
+ * 
  *
  * @author Georgy Kibardin
  */

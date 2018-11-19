@@ -13,7 +13,7 @@ use yii\web\HttpException;
 
 /**
  * Class ResponsibilityController
- * @package app\port\rest\controllers
+ *
  *
  * @author Dzhamal Tayibov
  */

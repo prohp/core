@@ -3,7 +3,7 @@ namespace app\common\helpers;
 
 /**
  * Class StringHelper
- * @package app\common\helpers
+ *
  */
 class StringHelper extends \yii\helpers\StringHelper
 {

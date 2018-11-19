@@ -11,7 +11,7 @@ use app\common\widgets\WidgetClientTrait;
 /**
  * Class DateTimePicker
  *
- * @package app\common\widgets
+ *
  *
  *
  */

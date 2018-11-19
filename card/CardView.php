@@ -24,7 +24,7 @@ use yii\db\ActiveRecordInterface;
 /**
  * CardView basic component
  *
- * @package app\common\widgets
+ *
  *
  * @author Dmitry Grudinin
  * @author Dzhamal Tayibov

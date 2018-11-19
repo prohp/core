@@ -5,7 +5,7 @@ use yii\base\InvalidValueException;
 
 /**
  * Class ClassHelper
- * @package app\app\common\helpers
+ * 
  *
  * @author Dzhamal Tayibov
  */

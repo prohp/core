@@ -3,7 +3,7 @@ namespace app\common\db;
 
 /**
  * Class Command
- * @package app\common\db
+ *
  *
  * 
  */

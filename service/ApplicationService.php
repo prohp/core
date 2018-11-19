@@ -8,11 +8,11 @@ use yii\base\BaseObject;
 
 /**
  * Class Service
- * @package app\common\service
+ * 
  *
  * @author Dzhamal Tayibov
  */
-class ApplicationService extends BaseObject implements ApplicationServiceInterface, ApplicationResourceInterface
+class ApplicationService extends BaseObject implements ApplicationResourceInterface
 {
     use ApplicationResourceTrait;
 

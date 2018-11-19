@@ -4,7 +4,7 @@ namespace app\common\base;
 /**
  * Class Module
  *
- * @package app\common\base
+ *
  *
  * @author Dzhamal Tayibov
  */

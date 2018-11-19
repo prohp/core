@@ -12,7 +12,7 @@ use yii\web\HttpException;
 
 /**
  * Class StateTransitionController
- * @package app\port\rest\controllers
+ *
  *
  * @author Dzhamal Tayibov
  */

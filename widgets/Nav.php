@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class Nav
- * @package app\common\widgets
+ *
  *
  * 
  */

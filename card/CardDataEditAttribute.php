@@ -7,7 +7,7 @@ use yii\base\Model;
 
 /**
  * Class CardDataViewAttribute
- * @package app\common\card
+ *
  *
  * 
  *

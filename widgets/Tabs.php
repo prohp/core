@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class Tabs
- * @package app\common\widgets
+ * 
  *
  * 
  */

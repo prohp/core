@@ -8,7 +8,7 @@ use app\modules\security\models\orm\User;
 
 /**
  * Trait ApplicationResourceTrait
- * @package app\common\acl
+ *
  *
  * @author Dzhamal Tayibov
  */

@@ -16,7 +16,7 @@ use yii\base\BaseObject;
 /**
  * Class Gate
  *
- * @package app\common\rbac
+ *
  *
  *
  *

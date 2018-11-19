@@ -6,7 +6,7 @@ use yii\base\InvalidValueException;
 
 /**
  * Class ActiveRecordRegistry
- * @package app\common\db
+ * 
  *
  * @author Dzhamal Tayibov
  */

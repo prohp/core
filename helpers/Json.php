@@ -5,7 +5,7 @@ use yii\base\InvalidParamException;
 
 /**
  * Class Json
- * @package app\common\helpers
+ *
  *
  * 
  */

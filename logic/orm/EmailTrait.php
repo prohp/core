@@ -7,7 +7,7 @@ use app\common\logic\orm\Email;
 /**
  * Trait EmailTrait
  * @mixin ActiveRecord
- * @package app\common\db
+ *
  *
  * 
  */

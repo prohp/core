@@ -6,7 +6,7 @@ namespace app\common\db;
  *
  * @mixin ActiveRecord
  *
- * @package app\common\db
+ *
  *
  * 
  */

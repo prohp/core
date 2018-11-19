@@ -7,7 +7,7 @@ use app\modules\organization\application\EmployeeService;
 
 /**
  * Class SkypeBotController
- * @package app\port\reat\controllers
+ * 
  *
  * @author Dzhamal Tayibov
  */

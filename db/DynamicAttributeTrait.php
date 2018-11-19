@@ -17,7 +17,7 @@ use app\common\helpers\CommonHelper;
  * @todo что такой атрибут не должен существовать в основной таблице (например, member)
  * @todo validate dynamicAttribute для этого нужно ->attributes объединить с ->dynamicAttributes
  * @todo переопределить метод ActiveRecord::fields
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  * @deprecated

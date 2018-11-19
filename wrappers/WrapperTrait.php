@@ -3,7 +3,7 @@ namespace app\common\wrappers;
 
 /**
  * Class WrapperAbleTrait
- * @package app\common\wrappers
+ *
  *
  * 
  */

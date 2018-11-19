@@ -28,7 +28,7 @@ use yii\helpers\Inflector;
  * @property int $is_deleted 0 or 1 (not or deleted record)
  * @property array[] $changedAttributes
  *
- * @package common\db\db
+ *
  *
  * @author Dzhamal Tayibov
  * 

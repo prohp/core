@@ -8,7 +8,7 @@ use app\common\wrappers\DynamicModal;
 
 /**
  * Class ListView
- * @package app\common\widgets
+ *
  *
  * 
  */

@@ -3,7 +3,7 @@ namespace app\common\base;
 
 /**
  * Interface PrepareModelInterface
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  */

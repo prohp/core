@@ -12,7 +12,7 @@ use yii\web\ForbiddenHttpException;
 
 /**
  * Class AclResourceRegistryController
- * @package app\port\rest\controllers
+ *
  *
  * @author Dzhamal Tayibov
  */

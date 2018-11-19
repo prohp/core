@@ -5,7 +5,7 @@ use app\common\base\Module;
 
 /**
  * Class WidgetRegistryService
- * @package app\common\base
+ *
  *
  * @author Dzhamal Tayibov
  */

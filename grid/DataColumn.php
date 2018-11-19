@@ -6,7 +6,7 @@ use app\common\helpers\Html;
 
 /**
  * Class DataColumn
- * @package app\common\grid
+ *
  *
  * 
  */

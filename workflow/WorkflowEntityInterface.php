@@ -4,7 +4,7 @@ namespace app\common\workflow;
 /**
  * Domain Layer
  * Interface WorkflowEntityInterface
- * @package app\common\workflow
+ *
  *
  * @author Dzhamal Tayibov
  */

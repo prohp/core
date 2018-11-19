@@ -7,7 +7,7 @@ use app\common\helpers\Html;
 
 /**
  * Class DynamicFormWidget
- * @package app\common\widgets
+ *
  *
  * 
  *

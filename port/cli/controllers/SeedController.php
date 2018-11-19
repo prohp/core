@@ -8,7 +8,7 @@ use app\common\seeds\Seeder;
 /**
  * Class SeedController
  *
- * @package app\port\cli\controllers
+ * 
  *
  * 
  */

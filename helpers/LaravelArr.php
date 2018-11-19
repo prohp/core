@@ -4,7 +4,7 @@ namespace app\common\helpers;
 /**
  * Class LaravelArr
  *
- * @package app\common\helpers
+ *
  *
  *
  *

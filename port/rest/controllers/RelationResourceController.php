@@ -13,7 +13,7 @@ use yii\web\HttpException;
 /**
  * @todo unlink физически удаляет запись из бд.
  * Class RelationResourceController
- * @package app\port\rest
+ * 
  *
  * @author Dzhamal Tayibov
  */

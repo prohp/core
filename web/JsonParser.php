@@ -7,7 +7,7 @@ use yii\web\BadRequestHttpException;
 
 /**
  * Class JsonParser
- * @package app\common\web
+ *
  *
  * 
  */

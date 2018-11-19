@@ -5,7 +5,7 @@ use app\common\wrappers\DynamicModal;
 
 /**
  * DetailView
- * @package app\common\widgets
+ *
  *
  *
  *

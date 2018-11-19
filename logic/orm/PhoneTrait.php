@@ -6,7 +6,7 @@ use app\common\db\ActiveRecord;
 /**
  * Trait PhoneTrait
  * @mixin ActiveRecord
- * @package app\common\db
+ * 
  */
 trait PhoneTrait
 {

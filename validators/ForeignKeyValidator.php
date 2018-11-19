@@ -7,7 +7,7 @@ use yii\validators\Validator;
 
 /**
  * Class ForeignKeyValidator
- * @package app\common\validators
+ * 
  */
 class ForeignKeyValidator extends Validator
 {

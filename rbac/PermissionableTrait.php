@@ -8,7 +8,7 @@ use app\common\logic\orm\AuthItemChild;
 /**
  * Class PermissionableTrait
  *
- * @package app\common\rbac
+ *
  *
  * 
  *

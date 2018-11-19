@@ -3,7 +3,7 @@ namespace app\common\workflow;
 
 /**
  * Class WorkflowParamsDto
- * @package app\modules\incident\application
+ * 
  *
  * @author Dzhamal Tayibov
  */

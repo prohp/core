@@ -5,7 +5,7 @@ use yii\bootstrap\BootstrapPluginAsset;
 
 /**
  * Class Popover
- * @package app\common\widgets
+ *
  *
  * 
  */

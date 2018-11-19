@@ -14,7 +14,7 @@ use yii\validators\RequiredValidator;
  * @property string $entity
  * @property string $entity_id
  *
- * @package app\common\logic\orm
+ * 
  *
  *
  * 

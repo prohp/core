@@ -9,7 +9,7 @@ use yii\helpers\FileHelper;
 
 /**
  * Class ModuleTrait
- * @package app\common\base
+ *
  *
  * @author Dzhamal Tayibov
  */

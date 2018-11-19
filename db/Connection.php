@@ -5,7 +5,7 @@ use app\common\db\mysql\Schema;
 
 /**
  * Class Connection
- * @package app\common\db
+ *
  *
  * 
  */

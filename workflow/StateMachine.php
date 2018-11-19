@@ -8,11 +8,11 @@ use Symfony\Component\Workflow\Transition;
 
 /**
  * Class StateMachine
- * @package app\common\workflow
+ * 
  *
  * @author Dzhamal Tayibov
  */
-class StateMachine extends \Symfony\Component\Workflow\StateMachine implements ApplicationServiceInterface, ApplicationResourceInterface
+class StateMachine extends \Symfony\Component\Workflow\StateMachine implements ApplicationResourceInterface
 {
     use ApplicationResourceTrait;
 

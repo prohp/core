@@ -7,7 +7,7 @@ use app\common\notification\NotificationServiceInterface;
 
 /**
  * Class SkypeBotController
- * @package app\port\cli\controllers
+ * 
  *
  * @author Dzhamal Tayibov
  */

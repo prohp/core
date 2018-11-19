@@ -7,7 +7,7 @@ use app\common\service\ServiceRegistry;
 
 /**
  * Class Acl
- * @package app\common\acl
+ *
  */
 class Acl extends \Zend\Permissions\Acl\Acl
 {

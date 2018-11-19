@@ -4,7 +4,7 @@ namespace app\common\rbac;
 /**
  * Interface PermissionableInterface
  *
- * @package app\common\rbac
+ *
  *
  * 
  */

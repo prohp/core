@@ -6,7 +6,7 @@ use yii\helpers\BaseStringHelper;
 
 /**
  * Class UniqueKey
- * @package app\common\base
+ * 
  *
  * 
  * @author Dzhamal Tayibov

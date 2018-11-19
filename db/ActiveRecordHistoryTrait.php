@@ -8,7 +8,7 @@ use app\common\helpers\Json;
  * Class ActiveRecordHistoryTrait
  *
  * @mixin ActiveRecord
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  */

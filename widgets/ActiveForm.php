@@ -5,7 +5,7 @@ use app\common\helpers\Html;
 
 /**
  * Class ActiveForm
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

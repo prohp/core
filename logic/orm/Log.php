@@ -11,7 +11,7 @@ use app\common\db\ActiveRecord;
  * @property string $prefix
  * @property string $message
  *
- * @package app\common\logic\orm
+ *
  */
 class Log extends ActiveRecord
 {

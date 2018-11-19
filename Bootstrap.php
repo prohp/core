@@ -16,7 +16,7 @@ use yii\base\BootstrapInterface;
 
 /**
  * Class Bootstrap
- * @package app
+ * 
  *
  * @author Dzhamal Tayibov
  */

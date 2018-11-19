@@ -6,7 +6,7 @@ use yii\i18n\MessageSource;
 
 /**
  * Class I18N
- * @package app\common\i18n
+ * 18n
  *
  *
  */

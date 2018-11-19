@@ -3,7 +3,7 @@ namespace app\common\bots;
 
 /**
  * Interface SkypeBotServiceInterface
- * @package app\common\bots
+ *
  *
  * @author Dzhamal Tayibov
  */

@@ -11,7 +11,7 @@ use app\common\helpers\ArrayHelper;
  * @property string $middle_name
  * @property int $gender
  *
- * @package app\common\valueObject
+ * 
  *
  * 
  */

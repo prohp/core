@@ -6,7 +6,7 @@ use app\common\db\ActiveRecord;
 /**
  * Class PassportTrait
  * @mixin ActiveRecord
- * @package app\common\logic\orm
+ * 
  */
 trait PassportTrait
 {

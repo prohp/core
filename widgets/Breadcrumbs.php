@@ -6,7 +6,7 @@ use app\common\helpers\StringHelper;
 /**
  * Class Breadcrumbs
  *
- * @package app\common\widgets
+ *
  */
 class Breadcrumbs extends \yii\widgets\Breadcrumbs
 {

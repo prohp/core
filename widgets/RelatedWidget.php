@@ -6,7 +6,7 @@ use app\common\helpers\Html;
 
 /**
  * Class RelatedWidget
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

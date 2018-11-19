@@ -7,7 +7,7 @@ use yii\base\Widget;
 
 /**
  * Class CaptionButton
- * @package app\common\grid\caption
+ *
  *
  * @author Dzhamal Tayibov
  */

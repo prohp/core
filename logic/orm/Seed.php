@@ -8,7 +8,7 @@ use app\common\db\ActiveRecordHistoryTrait;
 /**
  * Class Seed
  *
- * @package app\common\logic\orm
+ * 
  *
  *
  *

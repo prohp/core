@@ -9,7 +9,7 @@ use app\common\config\ConfigManager;
  *
  * @property-read ConfigManager $configManager
  *
- * @package app\common\web
+ *
  *
  * @author Dzhamal Tayibov
  */

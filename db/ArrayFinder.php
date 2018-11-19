@@ -3,7 +3,7 @@ namespace app\common\db;
 
 /**
  * Class ArrayFinder
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  */

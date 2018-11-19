@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class Modal
- * @package common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

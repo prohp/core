@@ -3,7 +3,7 @@ namespace app\common\wrappers;
 
 /**
  * Interface WrapperAbleInterface
- * @package app\common\wrappers
+ * 
  *
  * @author Dzhamal Tayibov
  */

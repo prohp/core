@@ -3,7 +3,7 @@ namespace app\common\helpers;
 
 /**
  * Class ClientHelper
- * @package app\common\helpers
+ *
  *
  * @author Dzhamal Tayibov
  */

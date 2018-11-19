@@ -7,7 +7,7 @@ use yii\db\BaseActiveRecord;
 
 /**
  * Поведение для автоматической подстановки автора и того, кто последним изменил запись
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  */

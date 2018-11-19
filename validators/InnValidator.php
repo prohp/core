@@ -10,7 +10,7 @@ use yii\validators\Validator;
  * in rules()   [['inn'], 'app\components\validators\validateInn'],
  * for test purpose use fake INN number 1234567894 or 123456789110
  *
- * @package app\common\validators
+ * 
  */
 class InnValidator extends Validator
 {

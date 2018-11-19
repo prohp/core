@@ -11,7 +11,7 @@ use kartik\select2\Select2;
 
 /**
  * Class ActiveField
- * @package app\common\components
+ *
  *
  * 
  *

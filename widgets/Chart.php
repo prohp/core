@@ -9,7 +9,7 @@ use app\modules\schedule\widgets\NoDataPlaceholderWidget;
 /**
  * Class Chart
  *
- * @package app\common\widgets
+ *
  */
 class Chart extends Widget
 {

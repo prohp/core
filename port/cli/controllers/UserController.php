@@ -7,7 +7,7 @@ use app\modules\security\models\form\User;
 
 /**
  * Class UserController
- * @package app\port\cli\controllers
+ * 
  *
  * @author Dzhamal Tayibov
  */

@@ -7,7 +7,7 @@ use yii\helpers\Inflector;
 /**
  * Class SeedFile
  *
- * @package app\common\seeds\models
+ * 
  *
  *
  *

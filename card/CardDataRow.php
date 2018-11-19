@@ -9,7 +9,7 @@ use yii\base\Model;
 
 /**
  * Card Data Row
- * @package app\common\card
+ *
  *
  *
  */

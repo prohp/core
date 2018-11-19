@@ -7,7 +7,7 @@ use yii\db\QueryInterface;
 
 /**
  * Class ArrayFinder
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  * @deprecated

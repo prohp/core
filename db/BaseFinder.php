@@ -13,7 +13,7 @@ use yii\data\DataProviderInterface;
 
 /**
  * Class BaseFinder
- * @package app\common\base
+ *
  *
  * @author Dzhamal Tayibov
  * @deprecated

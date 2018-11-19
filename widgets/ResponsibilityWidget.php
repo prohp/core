@@ -13,7 +13,7 @@ use yii\base\InvalidValueException;
 
 /**
  * Class ResponsibilityWidget
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

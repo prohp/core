@@ -5,7 +5,7 @@ use app\common\db\ActiveRecord;
 
 /**
  * Class ActiveController
- * @package app\common\rest
+ *
  *
  * 
  */

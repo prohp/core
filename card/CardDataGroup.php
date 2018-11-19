@@ -8,7 +8,7 @@ use app\common\helpers\Html;
 
 /**
  * Class CardDataGroup
- * @package app\common\card
+ *
  *
  *
  *

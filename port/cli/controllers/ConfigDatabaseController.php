@@ -7,7 +7,7 @@ use yii\di\Instance;
 
 /**
  * Class ConfigDatabaseController
- * @package app\port\cli\controllers
+ * 
  *
  * @author Dzhamal Tayibov
  */

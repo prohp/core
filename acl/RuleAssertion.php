@@ -11,7 +11,7 @@ use Zend\Permissions\Acl\Role\RoleInterface;
 
 /**
  * Class RuleAssertion
- * @package app\common\acl
+ * 
  *
  * @author Dzhamal Tayibov
  */

@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class TimePicker
- * @package app\common\widgets
+ *
  *
  * 
  */

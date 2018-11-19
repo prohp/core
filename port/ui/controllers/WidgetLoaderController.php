@@ -10,7 +10,7 @@ use yii\web\HttpException;
 
 /**
  * Class WidgetLoaderController
- * @package app\port\ui\controllers
+ *
  *
  * @author Dzhamal Tayibov
  */

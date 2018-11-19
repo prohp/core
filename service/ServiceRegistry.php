@@ -7,7 +7,7 @@ use yii\base\BaseObject;
 
 /**
  * Class ServiceRegistry
- * @package app\common\service
+ *
  *
  * @author Dzhamal Tayibov
  */

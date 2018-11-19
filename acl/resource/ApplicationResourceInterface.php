@@ -3,7 +3,7 @@ namespace app\common\acl\resource;
 
 /**
  * Interface ApplicationResourceInterface
- * @package app\common\acl\resource
+ *
  */
 interface ApplicationResourceInterface extends ResourceInterface
 {

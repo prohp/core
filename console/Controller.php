@@ -6,7 +6,7 @@ use yii\helpers\Console;
 /**
  * Class Controller
  *
- * @package app\common\console
+ *
  *
  *
  */

@@ -19,7 +19,7 @@ use yii\base\Arrayable;
  * @property array $config
  * @property Model $model
  *
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

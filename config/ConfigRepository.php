@@ -6,7 +6,7 @@ namespace app\common\config;
  *
  * @property array $configuration
  *
- * @package app\common\config
+ *
  *
  * 
  */

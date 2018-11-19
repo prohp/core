@@ -5,7 +5,7 @@ use yii\base\Component;
 
 /**
  * Class CardData
- * @package app\common\card
+ * 
  * 
  * @deprecated
  */

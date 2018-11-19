@@ -4,7 +4,7 @@ namespace app\common\widgets;
 /**
  * Trait SectionableTrait
  *
- * @package app\common\widgets
+ *
  */
 trait SectionableTrait
 {

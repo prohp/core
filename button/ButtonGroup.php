@@ -8,7 +8,7 @@ use app\common\helpers\Html;
  * Компонент для формирования списка кнопок по шаблону
  * Использует компоненты, реализующие ButtonInterface
  *
- * @package app\common\widgets
+ *
  *
  *
  * 

@@ -6,7 +6,7 @@ use yii\base\BaseObject;
 
 /**
  * Class ControllerRegistry
- * @package app\common\web
+ * 
  *
  * @deprecated
  */

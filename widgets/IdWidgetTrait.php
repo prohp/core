@@ -5,7 +5,7 @@ use app\common\base\UniqueKey;
 
 /**
  * Class IdWidgetTrait
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

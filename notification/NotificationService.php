@@ -9,7 +9,7 @@ use app\common\bots\SkypeBotServiceInterface;
 
 /**
  * Class NotificationService
- * @package app\common\notification
+ *
  *
  * @author Dzhamal Tayibov
  */

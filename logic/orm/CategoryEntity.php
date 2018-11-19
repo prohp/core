@@ -5,7 +5,7 @@ use app\common\db\ActiveRecord;
 
 /**
  * Class CategoryEntity
- * @package app\common\logic\orm
+ * 
  *
  * 
  */

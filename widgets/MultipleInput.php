@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class MultipleInput
- * @package app\common\widgets
+ *
  *
  * 
  */

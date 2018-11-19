@@ -5,7 +5,7 @@ use app\common\base\Module;
 
 /**
  * Class ServiceRegistry
- * @package app\common\service
+ *
  *
  * @author Dzhamal Tayibov
  */

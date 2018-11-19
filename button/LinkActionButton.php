@@ -8,7 +8,7 @@ use app\common\widgets\RegisterModal;
 
 /**
  * Class LinkActionButton
- * @package app\common\grid
+ *
  *
  * @author Dzhamal Tayibov
  * @todo Добавить проверку, что если нету динамикМодел, то кнопка заблочена

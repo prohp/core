@@ -3,7 +3,7 @@ namespace app\common\i18n;
 
 /**
  * Class PhpMessageSource
- * @package app\common\i18n
+ * 18n
  *
  * 
  */

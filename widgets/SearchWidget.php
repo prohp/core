@@ -10,7 +10,7 @@ use yii\widgets\BaseListView;
 
 /**
  * Class SearchWidget
- * @package common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  * @deprecated

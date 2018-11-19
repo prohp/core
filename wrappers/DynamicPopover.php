@@ -5,7 +5,7 @@ use app\common\widgets\Popover;
 
 /**
  * Class DynamicPopover
- * @package app\common\wrappers
+ *
  *
  * 
  */

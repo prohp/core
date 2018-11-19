@@ -4,7 +4,7 @@ namespace app\common\helpers;
 /**
  * Class CommonHelper
  *
- * @package app\common\helpers
+ *
  *
  *
  * 

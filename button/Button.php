@@ -6,7 +6,7 @@ use yii\base\BaseObject;
 
 /**
  * Кнопка
- * @package app\common\button
+ *
  *
  * @property $disabled
  *

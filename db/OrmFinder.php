@@ -8,7 +8,7 @@ use yii\base\InvalidValueException;
 
 /**
  * Class OrmFinder
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  * @deprecated

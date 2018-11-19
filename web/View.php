@@ -5,7 +5,7 @@ use yii\helpers\FileHelper;
 
 /**
  * Class View
- * @package app\common\web
+ *
  *
  */
 class View extends \yii\web\View

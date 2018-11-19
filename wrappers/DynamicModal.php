@@ -8,7 +8,7 @@ use app\common\widgets\WidgetClientTrait;
 
 /**
  * Class DynamicModal
- * @package common\widgets
+ *
  *
  * 
  */

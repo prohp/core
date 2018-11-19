@@ -7,7 +7,7 @@ use yii\db\Expression;
 /**
  * Migration
  * @todo проверять существование. динамич. атрибутов в БД на данную сущность и проверять уже существ. атрибуты (метод [[Migration::addColumn]])
- * @package app\common\db
+ *
  *
  * @author Dzhamal Tayibov
  */

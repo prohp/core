@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Interface WrapperInterface
- * @package app\common\widgets
+ *
  *
  * @author Dzhamal Tayibov
  */

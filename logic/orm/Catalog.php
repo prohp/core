@@ -6,7 +6,7 @@ use yii\db\ActiveQueryInterface;
 
 /**
  * Class Catalog
- * @package app\common\logic\orm
+ * 
  *
  * 
  */

@@ -3,7 +3,7 @@ namespace app\common\mail;
 
 /**
  * Class EmailSenderService
- * @package app\common\core\mail
+ *
  */
 class EmailSenderService implements EmailSenderServiceInterface
 {

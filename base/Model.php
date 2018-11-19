@@ -6,7 +6,7 @@ use yii\db\ActiveRecordInterface;
 
 /**
  * Class Model
- * @package app\common\base
+ * 
  *
  * @author Dzhamal Tayibov
 */

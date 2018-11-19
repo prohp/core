@@ -8,7 +8,7 @@ use yii\base\InvalidCallException;
 /**
  * Class Panel
  *
- * @package app\common\widgets
+ * 
  *
  * 
  */

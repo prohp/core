@@ -23,7 +23,7 @@ use app\common\button\ButtonGroup;
 
 /**
  * Class GridView
- * @package app\common\grid
+ * 
  *
  * @author Dzhamal Tayibov
  */

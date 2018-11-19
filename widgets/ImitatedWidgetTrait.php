@@ -6,7 +6,7 @@ use app\common\base\InitTrait;
 /**
  * Trait ImitatedWidgetTrait
  *
- * @package app\common\widgets
+ * 
  *
  * @mixin InitTrait
  * @mixin ImitatedWidgetInterface

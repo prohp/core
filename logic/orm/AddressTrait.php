@@ -8,7 +8,7 @@ use app\common\db\ActiveRecord;
  *
  * @mixin ActiveRecord
  *
- * @package app\common\db
+ * 
  *
  * 
  */

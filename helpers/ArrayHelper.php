@@ -6,7 +6,7 @@ use yii\base\InvalidParamException;
 
 /**
  * Class ArrayHelper
- * @package app\common\helpers
+ *
  *
  * 
  */

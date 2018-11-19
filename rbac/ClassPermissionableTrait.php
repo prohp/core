@@ -13,7 +13,7 @@ use yii\helpers\Inflector;
 /**
  * Class ClassPermissionableTrait
  *
- * @package app\common\rbac
+ *
  *
  * 
  *

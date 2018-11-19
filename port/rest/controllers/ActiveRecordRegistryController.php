@@ -11,7 +11,7 @@ use yii\web\ForbiddenHttpException;
 /**
  * @todo этот контроллер доступен суперпользователю по умолчанию.
  * Class ActiveRecordRegistryController
- * @package app\port\rest\controllers
+ *
  *
  * @author Dzhamal Tayibov
  */

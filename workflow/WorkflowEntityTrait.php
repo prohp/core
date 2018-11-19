@@ -6,7 +6,7 @@ use app\modules\config\application\WorkflowStatusServiceInterface;
 
 /**
  * Trait WorkflowEntityTrait
- * @package app\common\workflow
+ *
  *
  * @author Dzhamal Tayibov
  */

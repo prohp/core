@@ -3,7 +3,7 @@ namespace app\common\workflow;
 
 /**
  * Class Transition
- * @package app\common\workflow
+ *
  */
 class Transition extends \Symfony\Component\Workflow\Transition
 {

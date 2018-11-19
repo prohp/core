@@ -11,7 +11,7 @@ use yii\helpers\ArrayHelper;
 
 /**
  * Class CardDataAttribute
- * @package app\common\card
+ * 
  *
  *
  */

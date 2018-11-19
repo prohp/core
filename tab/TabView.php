@@ -15,7 +15,7 @@ use yii\data\ArrayDataProvider;
 /**
  * Class TabView
  *
- * @package app\common\tab
+ *
  *
  *
  *

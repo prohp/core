@@ -10,7 +10,7 @@ use app\common\widgets\WidgetClientTrait;
 
 /**
  * Class DatePicker
- * @package app\common\widgets
+ *
  *
  * 
  */

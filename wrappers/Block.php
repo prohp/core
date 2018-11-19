@@ -7,7 +7,7 @@ use app\common\widgets\Widget;
 
 /**
  * Class Block
- * @package common\widgets
+ * 
  *
  * @author Dzhamal Tayibov
  */

@@ -5,7 +5,7 @@ use yii\queue\JobInterface;
 
 /**
  * Class AsyncServiceJob
- * @package app\common\queue
+ *
  */
 class AsyncServiceJob implements JobInterface
 {

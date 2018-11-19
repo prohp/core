@@ -9,7 +9,7 @@ use app\common\db\Query;
 /**
  * Class SeedRecord
  *
- * @package app\common\logic\orm
+ * 
  *
  * 
  *

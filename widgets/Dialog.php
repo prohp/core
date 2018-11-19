@@ -3,7 +3,7 @@ namespace app\common\widgets;
 
 /**
  * Class Dialog
- * @package app\common\widgets
+ *
  *
  * 
  */

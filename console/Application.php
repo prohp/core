@@ -6,7 +6,7 @@ use yii\helpers\FileHelper;
 
 /**
  * Class Application
- * @package app\common\console
+ *
  *
  */
 class Application extends \yii\console\Application

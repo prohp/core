@@ -15,7 +15,7 @@ use yii\helpers\Inflector;
 /**
  * Class Seeder
  *
- * @package app\common\seeds
+ *
  *
  * 
  */

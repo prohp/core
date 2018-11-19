@@ -3,7 +3,7 @@ namespace app\common\base;
 
 /**
  * Class Formatter
- * @package app\common\base
+ *
  *
  * 
  */

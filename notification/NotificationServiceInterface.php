@@ -3,7 +3,7 @@ namespace app\common\notification;
 
 /**
  * Interface NotificationServiceInterface
- * @package app\common\notification
+ *
  *
  * @author Dzhamal Tayibov
  */

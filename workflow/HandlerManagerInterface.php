@@ -3,7 +3,7 @@ namespace app\common\workflow;
 
 /**
  * Interface HandlerRegistryInterface
- * @package app\common\workflow
+ *
  */
 interface HandlerManagerInterface
 {
